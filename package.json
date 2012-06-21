@@ -1,0 +1,13 @@
+{
+  "author": "Ian Babrou <ibobrik@gmail.com> (http://bobrik.name/)",
+  "name": "zabbix-agent-client",
+  "description": "client for zabbix-agent communication",
+  "keywords": ["zabbix", "zabbix-agent", "monitoring", "metrics", "api"],
+  "version": "0.1.1",
+  "homepage": "https://github.com/bobrik/node-zabbix-agent-client",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bobrik/node-zabbix-agent-client.git"
+  },
+  "main": "index.js"
+}
